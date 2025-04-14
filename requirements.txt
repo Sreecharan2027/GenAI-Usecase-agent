@@ -1,5 +1,6 @@
 streamlit
 serpapi==0.1.4
+google-search-results
 duckduckgo-search
 cohere
 python-dotenv
