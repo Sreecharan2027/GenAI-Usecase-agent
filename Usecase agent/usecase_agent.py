@@ -6,7 +6,8 @@ import os
 import faiss
 import numpy as np
 from fpdf import FPDF
-from serpapi.google_search import GoogleSearch
+from serpapi import GoogleSearch
+
 
 
 load_dotenv()
