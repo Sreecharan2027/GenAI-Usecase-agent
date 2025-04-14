@@ -31,3 +31,28 @@ flowchart TD
     K --> L[Retrieve Dataset/Resource Links]
     L --> M[FPDF Report Builder]
     M --> N[Download Final PDF Report]
+
+````
+## 💻 Tech Stack
+ -   Frontend: Streamlit
+ -  LLM & Embedding: Cohere
+ -  Search: DuckDuckGo + SerpAPI (Google)
+ -  Vector Store: FAISS
+ -  PDF Generator: FPDF
+ -  Language: Python
+
+## 🧪 Example Use Case Output
+
+**Company:** Toyota Motor Corporation
+
+### ✅ Generated Use Cases:
+- Predictive Maintenance using ML  
+- GenAI Assistant for Customer Support  
+- Automated Financial Reporting with RAG  
+- Vehicle Image Captioning  
+- Real-time Driver Alertness Detection  
+
+### 🔗 Resource Links:
+- [Kaggle datasets](https://www.kaggle.com/)
+- [GitHub tools and repositories](https://github.com/)
+
