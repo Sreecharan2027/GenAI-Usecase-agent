@@ -1,8 +1,8 @@
-streamlit>=1.44.1
-duckduckgo-search==0.9.5
-cohere==3.4.2
-python-dotenv==0.21.0
-faiss-cpu==1.7.1
-numpy==1.24.2
-fpdf==1.7.2
-serpapi==2.7.0
+streamlit
+duckduckgo-search
+cohere
+python-dotenv
+faiss-cpu
+numpy
+fpdf
+serpapi
