@@ -1,8 +1,9 @@
 streamlit
+serpapi>=2.0.7
 duckduckgo-search
 cohere
 python-dotenv
 faiss-cpu
 numpy
 fpdf
-serpapi==2.0.7
+
