@@ -1,5 +1,5 @@
-streamlit==1.18.1
-duckduckgo-search==0.5.1
+streamlit>=1.44.1
+duckduckgo-search==7.5.5
 cohere==3.4.2
 python-dotenv==0.21.0
 faiss-cpu==1.7.1
