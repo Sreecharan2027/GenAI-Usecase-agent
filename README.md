@@ -1,4 +1,8 @@
+
+
 # 🧠 GenAI Use Case Generator (Cohere RAG)
+
+The project is deployed using Streamlit Link to access  -- https://genai-usecase-agent-dhwcu7z5h9pd8ofctaavpe.streamlit.app/
 
 This project is an AI-powered Streamlit app that helps generate tailored **AI/ML/GenAI use cases** for a given company or industry. It combines **Cohere's Retrieval-Augmented Generation (RAG)** with **DuckDuckGo Search**, **FAISS**, and **SerpAPI** to build contextual awareness and recommend relevant datasets or tools.
 
