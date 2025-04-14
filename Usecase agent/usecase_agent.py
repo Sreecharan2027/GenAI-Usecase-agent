@@ -6,7 +6,8 @@ import os
 import faiss
 import numpy as np
 from fpdf import FPDF
-from serpapi import GoogleSearch
+#from serpapi import GoogleSearch
+from serpapi import GoogleSearchResults
 
 load_dotenv()
 co = cohere.Client(os.getenv("COHERE_API_KEY"))
