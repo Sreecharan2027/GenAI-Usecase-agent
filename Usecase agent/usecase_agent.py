@@ -147,7 +147,7 @@ def generate_pdf(industry_info, usecase_summary, resource_links, company_name):
 # Streamlit UI
 
 st.set_page_config(page_title="GenAI Use Case Generator", layout="wide")
-st.title("🧠 AI/GenAI Use Case Generator (Cohere RAG)")
+st.title("🧠 GenAI Use Case Generator (Cohere RAG)")
 st.markdown("This tool uses Cohere RAG to research industries, generate use cases, and find datasets.")
 
 company_name = st.text_input("Enter a Company or Industry Name:", "Toyota Motor Corporation")
