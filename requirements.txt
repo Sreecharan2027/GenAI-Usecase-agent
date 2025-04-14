@@ -5,4 +5,4 @@ python-dotenv
 faiss-cpu
 numpy
 fpdf
-serpapi
+serpapi==2.0.7
