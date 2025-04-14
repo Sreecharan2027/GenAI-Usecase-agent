@@ -1,5 +1,5 @@
 streamlit
-serpapi==0.1.5
+serpapi==1.0.0
 duckduckgo-search
 cohere
 python-dotenv
